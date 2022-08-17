@@ -74,7 +74,7 @@ fetch("http://localhost:8080/api/salva-pedido", requestOptions)
 
 ## Aviso
 
-Este repositório está sob lincença MIT.
+Este repositório está sob licença MIT.
 
 ## Contato
 
