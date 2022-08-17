@@ -71,3 +71,13 @@ fetch("http://localhost:8080/api/salva-pedido", requestOptions)
   .then(result => console.log(result))
   .catch(error => console.log('error', error));
 ```
+
+## Aviso
+
+Este repositório está sob lincença MIT.
+
+## Contato
+
+Lyndon Tavares (integraldominio@gmail.com)
+
+
